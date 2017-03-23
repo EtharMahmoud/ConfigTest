@@ -1,3 +1,5 @@
+configuration:  
+  projectName: configclient
 server:
   contextPath: /anonymization.interface
   port: 8090
